@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barasapter
+- 👋 Hi, I’m @NerdyLad
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web development projects 
